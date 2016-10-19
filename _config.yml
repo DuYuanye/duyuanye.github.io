@@ -1,22 +1,22 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            包大侠
+description:      やめて
+disqus_shortname: une
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:  https://duyuanye.github.io/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           包大侠
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "风流倜傥 玉树临风"
+  email:          yuanye.19900911@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         https://github.com/DuYuanye
   stackexchange:  
   linkedin:       
   instagram:      
